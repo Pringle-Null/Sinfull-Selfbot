@@ -1,0 +1,11 @@
+discord
+websockets
+aiohttp
+pyfiglet
+asyncio
+datetime
+colorama
+pillow
+qrcode
+youtube_dl
+beautifulsoup4
